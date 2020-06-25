@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.navWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+}
+
+.hogContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hog {
+  padding: 10%;
+}
